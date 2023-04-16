@@ -2,7 +2,7 @@
   "name": "social_coding",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://shidGANESH.github.io/Share_code",
+  "homepage": "https://shidGANESH.github.com/Share_code.git",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
